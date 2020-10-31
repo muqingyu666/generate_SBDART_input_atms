@@ -1,5 +1,5 @@
 # generate_SBDART_input_atms
-use python code to generate input file and atms.dat file for SBDART
+Using python code to generate input file and atms.dat file for SBDART
 
 These codes are just crude prototype of my research in atmospheric science,
 some of them are even manuscripts, some of them can solve few questions about
