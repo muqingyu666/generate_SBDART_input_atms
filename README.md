@@ -1,17 +1,17 @@
-# generate_SBDART_input_atms
-Using python code to generate input file and atms.dat file for SBDART
+# Python Code for Generating Input and Atms.dat Files for SBDART
 
-These codes are just crude prototype of my research in atmospheric science,
-some of them are even manuscripts, some of them can solve few questions about
-SBDART model input file.
+The following is a brief description of the Python code for generating input and atms.dat files for the SBDART radiative transfer model:
 
-                          ~~~///(^v^)\\\~~~
-I'm a graduate student in school of Atmospheric Sciences, Lanzhou University,
-currntly working on SBDART model trying to compute LW, SW flux of the whole globe.
-I'm just a rookie in python coding, there will probably be plenty of errors during
-using of my code, feel free to use any of my code and please contact me if you
-cant understand my code or meet some weird problems.
+- The code is written in Python and is designed to generate the input and atms.dat files required by the SBDART radiative transfer model.
+- The code is intended to be used in atmospheric science research and may be used to solve specific questions related to SBDART model input file generation. 
+- The code is still in development and may be subject to frequent updates and changes. 
+- The code is intended as a prototype and may not be suitable for production use without additional testing and validation. 
+- The code includes comments and documentation to help users understand its functionality and usage.
 
-Hope my pathetic code can inspire some of you.I will continue updating this repository!
+Technical notes:
 
-                               (*^_^*)
+- The code is intended for advanced users and requires a strong understanding of atmospheric science and radiative transfer models. 
+- The code may require additional libraries or dependencies to run, such as NumPy or Pandas. 
+- The code may require additional inputs or parameters to accurately model different atmospheric conditions or configurations. 
+- The code should be thoroughly tested and validated before being used in any critical applications, and any errors or bugs should be addressed before deployment.
+- The code may be modified or extended to support additional features or use cases, but should be carefully tested and validated before being used in production.
